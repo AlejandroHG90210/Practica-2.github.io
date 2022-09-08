@@ -1,4 +1,3 @@
-<!doctype html>
 <html lang="en">
   <head>
     <!-- Required meta tags -->
@@ -23,8 +22,7 @@
         <h2><p align=left>Practica #2</p></h2> 
           </div>
 </div>
-    </nav>
-</dt> 
+    </nav> 
 <H3>LECCION 1 DEFINICION DE HTML5:</H3>
 <center><img src="iniciohtml.png" width="210" height="130"></center>  
   <b><p>Definicion de HTML5:</p></b>
